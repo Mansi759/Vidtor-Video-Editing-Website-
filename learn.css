@@ -1,0 +1,43 @@
+#heading{
+  font-size:300%;
+  color: grey;
+  padding-bottom:3%;
+  
+  
+
+}
+#lt{
+  margin-top:3%;
+  margin-left:5%;
+  margin-right: 5%;
+}
+#lt h2{
+     font-size: 200%;
+     
+    
+}
+#lt em{
+  padding-left: 4%;
+}
+#lt p{
+  padding-left: 20%;
+  padding-right:10%;
+  font-size:125%;
+  font-family: serif;
+  color:rgba(77, 73, 73, 0.815);
+}
+#lt img{
+  height:200px;
+  width:300px;
+}
+#lt img{
+  -webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+#lt img:hover{
+  -webkit-transform: scale(1.3);
+	transform: scale(1.3);
+}
+

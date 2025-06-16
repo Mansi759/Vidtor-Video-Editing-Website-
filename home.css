@@ -1,0 +1,61 @@
+#home table{
+    width:100%;
+}
+#home h1{
+    padding-top: 5%;
+    font-size:550%;
+    border:0px solid black;
+    padding-left:20%;
+    font-family: sans-serif;
+    margin-bottom:0%;
+}
+#home h2{
+    border:0px solid black;
+    font-size:230%;
+    padding-left:30%;
+    font-family:serif;
+    margin-top:0;
+    margin-bottom:1%;
+    padding-top:2%;
+}
+#home button{
+    border-radius:10px;
+    background-color:#0081C9;
+    border-color:#0081C9;
+    color:white;
+    font-size:25px;
+    padding:10px 24px;
+    margin-left:40%;
+    margin-bottom:8%;
+    margin-top:2%;
+
+}
+#home button:hover{
+    color:black;
+    transition-duration: 0.4s;
+    background-color:#B01E68;
+
+}
+.i td{
+    padding:3% 4% 3% 4%;
+}
+.text h1{
+       
+       font-size:220%;
+}
+.text p{
+    font-size:120%;
+    color:grey;
+}
+hr{
+    margin-bottom:2%;
+}
+.box{
+    height:600px;
+    background-image:url(bgimg.jpeg); 
+    background-size:cover;
+    background-repeat: no-repeat; 
+    color:white;
+}
+
+

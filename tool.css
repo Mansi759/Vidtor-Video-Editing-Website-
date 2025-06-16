@@ -1,0 +1,47 @@
+#tooltable img{
+    height:250px;
+    width:350px;
+    padding-bottom:10%;
+}
+#tooltable img{
+    -webkit-transform: scale(1);
+      transform: scale(1);
+      -webkit-transition: .3s ease-in-out;
+      transition: .3s ease-in-out;
+  }
+#tooltable img:hover{
+    -webkit-transform: scale(1.3);
+      transform: scale(1.3);
+  }
+#tooltable{
+    margin-left:4%;
+    margin-right:2%;
+}
+th{
+    font-size:250%;
+    padding-bottom:5%;
+    font-family:serif;
+    color:grey;
+   
+
+}
+#tooltable h3{
+    font-family: sans-serif;
+}
+#tooltable p{
+    color:grey;
+    font-size:100%;
+    font-family:sans-serif;
+    padding-right:5%;
+}
+#tooltable img{
+    
+    border-radius:2%;
+    
+    
+}
+#tooltable hr{
+    width:80%;
+    margin-left:0% ;
+    color:red;
+}
